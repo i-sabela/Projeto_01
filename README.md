@@ -1,2 +1,4 @@
-# Projeto_01
+# Projeto_001
 Primeiro  Repositório versionado
+
+Aula ao vivo!
